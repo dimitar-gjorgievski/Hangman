@@ -1,5 +1,6 @@
 # Hangman
 Hangman game created using Java built with AWT and Swing GUIs.
+
 ![HangmanIcon](https://github.com/dimitar-gjorgievski/Hangman/raw/master/hangman.jpg)
 
 ## Prerequisites
