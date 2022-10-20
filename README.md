@@ -11,7 +11,7 @@ Clone the project in a local directory.
 
 **For Windows**
 
-Build the project using Gradle in the Hangman directory.
+Build the project using Gradle in the cloned Hangman directory.
 
 `gradlew build`
 
@@ -23,7 +23,7 @@ Run the Jar file.
 
 **For Linux**
 
-Change the permissions of the Gradle Wrapper in the Hangman directory to be executable.
+Change the permissions of the Gradle Wrapper in the cloned Hangman directory to be executable.
 
 `chmod +x gradlew`
 
