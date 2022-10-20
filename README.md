@@ -9,7 +9,7 @@ This project requires the Java JDK (Version 8 or more recent) and Gradle (Versio
 ## Install and Run
 Clone the project in a local directory.
 
-**For Windows**
+### For Windows
 
 Build the project using Gradle in the cloned Hangman directory.
 
@@ -21,7 +21,7 @@ Run the Jar file.
 
 ---
 
-**For Linux**
+### For Linux
 
 Change the permissions of the Gradle Wrapper in the cloned Hangman directory to be executable.
 
