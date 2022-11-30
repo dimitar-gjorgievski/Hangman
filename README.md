@@ -1,7 +1,7 @@
 # Hangman
 Hangman game created using Java built with AWT and Swing GUIs.
 
-![HangmanIcon](https://github.com/dimitar-gjorgievski/Hangman/raw/master/hangman.jpg)
+![HangmanIcon](https://raw.githubusercontent.com/dimitar-gjorgievski/Hangman/master/hangman.jpg)
 
 ## Prerequisites
 This project requires the Java JDK (Version 8 or more recent) and Gradle (Version 7 or more recent).
